@@ -1,31 +1,54 @@
-# 💫 About Me:
-I'm Lakmal  
-From 🇱🇰 Sri Lanka  
-I'm learning 😭🙏
+<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Lakmal</span></h1>
+<h3 align="center">📍 From Sri Lanka | 🎯 Learning to be a Cybersecurity Expert</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@aiehema)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/echo_wthman_)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@awhitecat-u7t?si=Ie9fjlSR-3AYYJTo)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gofwinner@gmail.com)  
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamahumann&theme=aura&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=iamahumann&theme=aura&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamahumann&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamahumann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamahumann&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with me:
+<p align="center">
+  <a href="https://discord.gg/@aiehema"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/echo_wthman_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@awhitecat-u7t?si=Ie9fjlSR-3AYYJTo"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="mailto:gofwinner@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,arduino&theme=dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamahumann&theme=tokyonight&show_icons=true&hide_border=false" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=iamahumann&theme=tokyonight&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamahumann&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamahumann&theme=radical&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+## 🧠 Currently Learning:
+- 🔐 Cybersecurity & Bug Bounty
+- 🧠 ESP32 Projects
+- 🧑‍💻 C++, Python, Web Tech
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=iamahumann&icon=5&color=0" />
+</p>
+
+<!-- Made with ❤️ by Lakmal. Inspired by the will to learn -->
