@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Lakmal</span></h1>
-<h3 align="center">📍 From Sri Lanka | 🎯 Learning to be a Cybersecurity Expert</h3>
+<h3 align="center">📍 From Sri Lanka | 🎯 Aspiring Cybersecurity Expert</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://discord.gg/@aiehema"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/echo_wthman_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
@@ -24,7 +24,7 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamahumann&theme=tokyonight&show_icons=true&hide_border=false" /><br/>
   <img src="https://streak-stats.demolab.com/?user=iamahumann&theme=tokyonight&hide_border=false" /><br/>
@@ -33,22 +33,27 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamahumann&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-## 🧠 Currently Learning:
+## 🚀 Currently Learning
 - 🔐 Cybersecurity & Bug Bounty
-- 🧠 ESP32 Projects
-- 🧑‍💻 C++, Python, Web Tech
+- 🧠 ESP32 Projects & Embedded Systems
+- 🧑‍💻 C++, Python & Web Development
 
 ---
 
+## 📈 Visitor Count
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=iamahumann&icon=5&color=0" />
 </p>
 
-<!-- Made with ❤️ by Lakmal. Inspired by the will to learn -->
+---
+
+<p align="center">
+  Made with ❤️ by <b>Lakmal</b>
+</p>
